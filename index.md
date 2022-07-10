@@ -4,3 +4,7 @@
 #### H4 Header
 ##### H5 Header
 ###### H6 Header
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
